@@ -727,6 +727,12 @@
         "r3.2xlarge",
         "r3.xlarge",
         "r3.large",
+        "r4.16xlarge",
+        "r4.8xlarge",
+        "r4.4xlarge",
+        "r4.2xlarge",
+        "r4.xlarge",
+        "r4.large",
         "i2.8xlarge",
         "i2.4xlarge",
         "i2.2xlarge",
@@ -776,6 +782,12 @@
         "c4.2xlarge",
         "c4.xlarge",
         "c4.large",
+        "r4.16xlarge",
+        "r4.8xlarge",
+        "r4.4xlarge",
+        "r4.2xlarge",
+        "r4.xlarge",
+        "r4.large",
         "r3.8xlarge",
         "r3.4xlarge",
         "r3.2xlarge",
@@ -1661,6 +1673,30 @@
         "EBSOpt" : "True"
       },
       "r3.large" : {
+        "Arch" : "64HVM",
+        "EBSOpt" : "False"
+      },
+      "r4.16xlarge" : {
+        "Arch" : "64HVM",
+        "EBSOpt" : "False"
+      },
+      "r4.8xlarge" : {
+        "Arch" : "64HVM",
+        "EBSOpt" : "False"
+      },
+      "r4.4xlarge" : {
+        "Arch" : "64HVM",
+        "EBSOpt" : "True"
+      },
+      "r4.2xlarge" : {
+        "Arch" : "64HVM",
+        "EBSOpt" : "True"
+      },
+      "r4.xlarge" : {
+        "Arch" : "64HVM",
+        "EBSOpt" : "True"
+      },
+      "r4.large" : {
         "Arch" : "64HVM",
         "EBSOpt" : "False"
       },
